@@ -12,11 +12,11 @@
 - Discount đang làm mỏng margin đều đặn mỗi tháng, nhưng chưa có bằng chứng về Promotion Lift thực sự.
 
 ---
-<img width="4150" height="3337" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ca237c60-d111-408e-bfbd-a50d2a7ae6be" />
+<img width="4150" height="3525" alt="dashboard_weekly" src="https://github.com/user-attachments/assets/e77f6473-d006-4de0-a383-67481b4f4c51" />
 
 *Dashboard 1: Tổng quan toàn period (Jan–May 2018)*
 
-<img width="4150" height="3525" alt="dashboard_weekly" src="https://github.com/user-attachments/assets/e77f6473-d006-4de0-a383-67481b4f4c51" />
+<img width="4150" height="3337" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ca237c60-d111-408e-bfbd-a50d2a7ae6be" />
 
 *Dashboard 2: Phân tích theo tuần*
 ## 1. Dataset & Pipeline
